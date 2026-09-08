@@ -1,6 +1,6 @@
 package frames
 
-var egg = DefaultFrameType(eggFrames)
+var Egg = DefaultFrameType(eggFrames)
 
 var eggFrames = []string{
 	`
